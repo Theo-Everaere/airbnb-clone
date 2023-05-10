@@ -9,9 +9,12 @@ FRONTEND
 BACKEND
   NodeJS
   Express
+  Cors
   Mongoose
-  BcryptJS (to encrypt the user password)
- 
+  bcryptJS
+  JsonWebToken
+  dotenv
+  
 DATABASE
   MongoDB
   
