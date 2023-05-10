@@ -10,6 +10,7 @@ BACKEND
   NodeJS
   Express
   Mongoose
+  BcryptJS (to encrypt the user password)
  
 DATABASE
   MongoDB
